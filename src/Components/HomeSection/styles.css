@@ -31,6 +31,7 @@
     padding: 0.5rem 2.4rem;
     background-color: #09706F;
     border-radius: 2px;
+    transition: 0.2s;
 }
 .btn:hover{
     color: #09706F;
