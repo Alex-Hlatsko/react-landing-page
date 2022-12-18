@@ -48,6 +48,9 @@
 }
 
 @media only screen and (max-width: 690px) {
+    .header_content{
+        width: 100%;
+    }
     .store_header{
         padding: 0 1rem;
         height: 70vh;  
