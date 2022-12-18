@@ -12,7 +12,7 @@ const Collections = () => {
     },
     {
       id: "2",
-      title: "In pots",
+      title: "Houseplants",
       subtitle: "Care and work work wonders",
       img: "./img/homecoll2.jpg"
     },
