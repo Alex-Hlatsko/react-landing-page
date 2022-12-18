@@ -5,7 +5,7 @@ import './styles.css'
 const Collection = ({data}) => {
   return (
     <>
-    <Link to="/store">
+    <Link to="/store#bouquet">
         <div className='collection'>
             <div className="collection_bg">
                 <img src={data.img} alt="img" />
