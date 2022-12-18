@@ -1,11 +1,20 @@
 .collections{
-    padding-top: 1.2rem;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
+.collections_title{
+    margin-top: 1.4rem;
+    color: #09706F;
+    font-weight: 500;
+    font-size: 2rem;
+    text-align: center;
+}
 @media only screen and (max-width: 600px) {
     .collections{
         flex-direction: column;    
+    }
+    .collections_title{
+        font-size: 1.5rem;
     }
 }

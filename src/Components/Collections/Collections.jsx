@@ -24,9 +24,12 @@ const Collections = () => {
     }
   ];
   return (
+    <>
+    <h1 className="collections_title">What are you looking for?</h1>
     <div className="collections">
       {data.map(d => (<Collection key={d.id} data={d}/>))}
     </div>
+    </>
   )
 }
 
