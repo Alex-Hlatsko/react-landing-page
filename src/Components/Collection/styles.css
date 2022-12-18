@@ -17,6 +17,7 @@
     height: 100%;
     opacity: 0.3;
     transition: 0.2s;
+    object-fit:cover;
 }
 .collection:hover .collection_bg img{
     opacity: 0.5;
