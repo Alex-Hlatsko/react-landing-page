@@ -1,8 +1,8 @@
 # Plant store
 
-![Home](https://github.com/Alex-Hlatsko/react-landing-page/tree/main/public/img/preview/home.jpg)
+![Home](https://github.com/Alex-Hlatsko/react-landing-page/blob/main/public/img/preview/home.jpg)
 
-![Store](https://github.com/Alex-Hlatsko/react-landing-page/tree/main/public/img/preview/store.jpg)
+![Store](https://github.com/Alex-Hlatsko/react-landing-page/blob/main/public/img/preview/store.jpg)
 
 # To Start
 
